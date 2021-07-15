@@ -114,3 +114,16 @@ button {
 	width: 100px;
 	opacity: 100%;
 }
+#addButton {
+	margin: 10px;
+	padding: 10px;
+}
+.table {
+	width: 50%;
+	margin-left: 50px;
+}
+h1 {
+	display: flex;
+	justify-content: center;
+	padding-top: 50px;
+}
